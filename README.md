@@ -1,6 +1,6 @@
 # leetcode-practices
 
-Jan 1, 2020
+<h6>Jan 1, 2020<h6>
 
 1. Two Sum/
 Recurse twice --> O(n^2)
