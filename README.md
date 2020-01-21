@@ -20,3 +20,10 @@ Jan 3, 2020
 21. Merge Two Sorted Lists /
 Could implement using recursion
 Could also have O(1) complexity by using pointers
+
+Jan 7, 2020
+
+509. Fibonacci Number/
+70. Climbing Stairs/
+20. Valid Parentheses/
+202. Happy Number/
