@@ -29,7 +29,8 @@ Jan 7, 2020
 202. Happy Number/
 
 Jan 20, 2020
-892. Surface Area of 3D Shapes
+892. Surface Area of 3D Shapes/
+
   Reading the question: be more patient and plug in variables 
   ** parenthesis on pointers while incrementing **,  debugging by segments
   Using comments smartly
